@@ -77,3 +77,5 @@ compose.override.yaml
 
 # Local build notes
 DOCKER_BUILD.md
+UPSTREAM_SYNC.md
+PR_GUIDE.md
